@@ -1,0 +1,17 @@
+   body: {
+padding: 0;
+margin: 0;
+display: flex;
+justify-content: center;
+}
+canvas {
+display: block;
+}
+.text{
+position: fixed;
+top: 50%;
+left: 37%;
+color: white;
+font-size: 40px;
+font-weight: bold;
+} 
